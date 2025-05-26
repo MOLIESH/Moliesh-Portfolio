@@ -7,18 +7,18 @@ export const socials = [
   {
     id: 1,
     logo: "/logos/github-icon.svg",
-    href: "https://github.com/subashio/",
+    href: "https://github.com/MOLIESH/",
   },
   {
     id: 2,
     logo: "/logos/link.svg",
-    href: "https://www.linkedin.com/in/subash-dev/",
+    href: "https://www.linkedin.com/in/moliesh21/",
   },
 
   {
     id: 3,
     logo: "/logos/insta.svg",
-    href: "https://www.instagram.com/__m.subash__/",
+    href: "https://www.instagram.com/moliesh_b/",
   },
 ];
 

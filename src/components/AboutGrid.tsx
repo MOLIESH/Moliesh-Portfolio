@@ -18,7 +18,7 @@ export default function AboutGrid({
               <Dot className="ml-0 scale-150 text-teal-400" /> Available To Work
             </p>
             <Link
-              href="https://github.com/subashio"
+              href="https://github.com/MOLIESH"
               className="flex items-center justify-start gap-2 rounded-full bg-gradient-to-l from-[#5251513a] to-[#55545442] p-1.5 pr-4 text-xs transition-all duration-300 hover:scale-105"
             >
               <ArrowUpRight className="w-4 text-teal-400" /> GitHub
@@ -26,7 +26,7 @@ export default function AboutGrid({
           </div>
           <Link
             className="flex cursor-pointer items-center justify-center gap-1.5 rounded-lg bg-slate-400/30 p-1.5 pl-3 text-sm shadow-[rgba(0,_0,_0,_0.24)_0px_3px_8px] transition-all duration-300 hover:scale-105"
-            href="/Subash_Resume.pdf"
+            href="/MOLIESH(RESUME).pdf"
             target="_blank"
             download
           >

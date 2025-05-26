@@ -22,7 +22,7 @@ export default function Stacks({ title, description }: GridItem) {
         Email Me
       </Link>
       <Link
-        href="https://wa.me/919344497929?text=hello"
+        href="https://wa.me/919385806752?text=hello"
         className="flex w-full items-center justify-center gap-3 rounded-xl bg-slate-700/50 p-4 transition-all duration-300 hover:scale-95 hover:bg-slate-500/60"
       >
         <Phone className="h-5 w-5 text-sky-500" fill="#38bdf8" />
