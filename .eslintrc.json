@@ -1,0 +1,18 @@
+{
+  "extends": ["next/core-web-vitals", "next/typescript"],
+  "rules": {
+    // Customize rules to address common TypeScript issues
+    "no-unused-vars": "off", // Disable base rule for unused variables
+    "@typescript-eslint/no-unused-vars": "warn", // Use TypeScript's version of the rule
+    "react/no-unescaped-entities": "warn", // Change to 'error' if you want stricter checking
+    "@typescript-eslint/explicit-function-return-type": "off", // Disable explicit return types
+    "@typescript-eslint/no-explicit-any": "warn", // Warn for 'any' usage, can set to 'error'
+    "react/prop-types": "off", // Disable prop-types as we are using TypeScript
+    "import/prefer-default-export": "off" // Disable if you prefer named exports
+  },
+  "settings": {
+    "react": {
+      "version": "detect" // Automatically detect the version of React
+    }
+  }
+}
